@@ -1,0 +1,5 @@
+{
+  "name": "LoadTest Mastery: Flask & Locust Guide",
+  "description": "An interactive engineer's companion for building robust Python Flask APIs and conducting high-performance load testing with Locust. Features code generators, live performance simulations, and AI-driven optimization advice.",
+  "requestFramePermissions": []
+}
